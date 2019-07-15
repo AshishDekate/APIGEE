@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="empapi">
+    <Basepaths>/empapi</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1534178602535</CreatedAt>
+    <CreatedBy>ashish.dekate@globalpay.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>empapi</DisplayName>
+    <LastModifiedAt>1534178602535</LastModifiedAt>
+    <LastModifiedBy>ashish.dekate@globalpay.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:ce115f5ff9cba76b670178ca9e6516636da4ee56ccd3621ab4581b2451d2be1d92f7579fa0c961e235d975931a8b1d07a5b1709dd4b250f374c997256172706a</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>openapi://association.json</Resource>
+    </Resources>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
